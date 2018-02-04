@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_gankio"
+        icon="@drawable/ic_vector_bottom_gankio"
+        title="干货" />
+    <tab
+        id="@+id/tab_wanandroid"
+        icon="@drawable/ic_vector_bottom_wanandroid"
+        title="玩安卓" />
+    <tab
+        id="@+id/tab_personal"
+        icon="@drawable/ic_vector_bottom_personal"
+        title="个人" />
+</tabs>

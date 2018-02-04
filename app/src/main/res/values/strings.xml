@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AndroidNews</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header_imageDescription">Header Image</string>
+    <string name="dialog_positive">1</string>
+    <string name="dialog_negative">2</string>
+    <string name="titles_all">所有</string>
+    <string name="home_page">首页</string>
+    <string name="knowledge_system">知识体系</string>
+    <string name="useful_sites">常用网站</string>
+    <string name="press_again">再按一次退出</string>
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string name="rest_video">休息视频</string>
+    <string name="expand_the_resources">拓展资源</string>
+    <string name="blind_to_recommend">瞎推荐</string>
+    <string name="app">App</string>
+    <string name="web">前端</string>
+    <string name="welfare">福利</string>
+    <string name="item_image">Item Image</string>
+    <string name="empty_network_error">网络异常,点击重试</string>
+    <string name="empty_no_data">没有数据，点击重试</string>
+    <string name="network_error">网络错误</string>
+
+</resources>
